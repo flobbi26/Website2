@@ -39,7 +39,7 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #3a556a;
-    font-size: 25px;
+    font-size: 30px;
 }
 nav ul li a:hover{
     color: #ff8100;
@@ -162,7 +162,7 @@ button:hover{
     #menuList{
     overflow: hidden;
     transition: 0.5s;
-}
+    }
     .row{
         flex-direction: column-reverse;
         margin: 50px 0;
@@ -184,6 +184,6 @@ button:hover{
         font-size: 35px;
     }
     .col-1 h3{
-        font-size: 35px;
+       font-size: 35px;
     }
 }
